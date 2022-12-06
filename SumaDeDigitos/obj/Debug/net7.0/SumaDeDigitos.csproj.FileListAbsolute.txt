@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\bin\Debug\net7.0\SumaDeDigitos.exe
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\bin\Debug\net7.0\SumaDeDigitos.deps.json
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\bin\Debug\net7.0\SumaDeDigitos.runtimeconfig.json
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\bin\Debug\net7.0\SumaDeDigitos.dll
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\bin\Debug\net7.0\SumaDeDigitos.pdb
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\obj\Debug\net7.0\SumaDeDigitos.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\obj\Debug\net7.0\SumaDeDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\obj\Debug\net7.0\SumaDeDigitos.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\obj\Debug\net7.0\SumaDeDigitos.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\obj\Debug\net7.0\SumaDeDigitos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\obj\Debug\net7.0\SumaDeDigitos.dll
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\obj\Debug\net7.0\refint\SumaDeDigitos.dll
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\obj\Debug\net7.0\SumaDeDigitos.pdb
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\obj\Debug\net7.0\SumaDeDigitos.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\SumaDeDigitos\obj\Debug\net7.0\ref\SumaDeDigitos.dll

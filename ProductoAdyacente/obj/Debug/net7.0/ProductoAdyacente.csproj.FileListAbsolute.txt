@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\obj\Debug\net7.0\ProductoAdyacente.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\obj\Debug\net7.0\ProductoAdyacente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\obj\Debug\net7.0\ProductoAdyacente.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\obj\Debug\net7.0\ProductoAdyacente.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\obj\Debug\net7.0\ProductoAdyacente.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\bin\Debug\net7.0\ProductoAdyacente.exe
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\bin\Debug\net7.0\ProductoAdyacente.deps.json
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\bin\Debug\net7.0\ProductoAdyacente.runtimeconfig.json
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\bin\Debug\net7.0\ProductoAdyacente.dll
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\bin\Debug\net7.0\ProductoAdyacente.pdb
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\obj\Debug\net7.0\ProductoAdyacente.dll
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\obj\Debug\net7.0\refint\ProductoAdyacente.dll
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\obj\Debug\net7.0\ProductoAdyacente.pdb
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\obj\Debug\net7.0\ProductoAdyacente.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\ProductoAdyacente\obj\Debug\net7.0\ref\ProductoAdyacente.dll

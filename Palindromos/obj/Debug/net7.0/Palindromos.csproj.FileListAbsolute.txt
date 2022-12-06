@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\obj\Debug\net7.0\Palindromos.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\obj\Debug\net7.0\Palindromos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\obj\Debug\net7.0\Palindromos.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\obj\Debug\net7.0\Palindromos.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\obj\Debug\net7.0\Palindromos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\bin\Debug\net7.0\Palindromos.exe
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\bin\Debug\net7.0\Palindromos.deps.json
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\bin\Debug\net7.0\Palindromos.runtimeconfig.json
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\bin\Debug\net7.0\Palindromos.dll
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\bin\Debug\net7.0\Palindromos.pdb
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\obj\Debug\net7.0\Palindromos.dll
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\obj\Debug\net7.0\refint\Palindromos.dll
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\obj\Debug\net7.0\Palindromos.pdb
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\obj\Debug\net7.0\Palindromos.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ExamenCleverCloud\Palindromos\obj\Debug\net7.0\ref\Palindromos.dll
